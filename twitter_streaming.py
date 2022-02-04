@@ -22,10 +22,10 @@ keywords = ['$btc', '#btc', 'btc', '$bitcoin', '#bitcoin', 'bitcoin']
 language = ['en']
 
 # Twitter API stuff
-consumer_key = "Lp5mSp9MfKjXZaC3Vikp5uiFw"
-consumer_secret = "MzFaF3aE2HG6bArm8X09Qw3kHpD5gYz5eaWfkGAdHFM3OTpQck"
-access_token = "1290868623985135618-z4UCpNErMw2fsibsN1emC4OxbphnGo"
-access_token_secret = "PrUdx0Xwpqsw0KOCzkpV5WvnkiCvpk5KRBVfeCycxd5AP"
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_token_secret = ""
 
 class StdOutListener(StreamListener):
     c=0
